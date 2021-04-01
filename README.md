@@ -1,3 +1,13 @@
+# WEATHER APP
+Planning to go for hiking and want to check the weather today if it's suitable for hiking? Don't worry this cool weather-app will help in checking the weather.
+
+## Screenshots
+!["Screenshot of clouds"](https://github.com/tasneemh/todo-app/blob/main/images/home.png?raw=true)
+!["Screenshot of all todos"](https://github.com/tasneemh/todo-app/blob/main/images/all.png?raw=true)
+!["Screenshot of completed todos"](https://github.com/tasneemh/todo-app/blob/main/images/completed.png?raw=true)
+!["Screenshot of uncompleted todos"](https://github.com/tasneemh/todo-app/blob/main/images/uncompleted.png?raw=true)
+!["Screenshot of error message"](https://github.com/tasneemh/todo-app/blob/main/images/error.png?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
